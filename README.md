@@ -43,6 +43,8 @@ contract LuxurySupplyChain {
     }
 }
 ```
+
+
 # Expected Output:
 <img width="1533" height="712" alt="Screenshot 2026-11-23 092118" src="https://github.com/user-attachments/assets/ac0a05ad-fd39-48ba-9698-36b6b786557a" />
 
