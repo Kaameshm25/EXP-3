@@ -2,8 +2,11 @@
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
 The manufacturer records product creation details on-chain.
+
 The product moves through different supply chain checkpoints.
+
 The ownership of the product can be transferred securely.
+
 Buyers can verify the product’s authenticity.
 # Program:
 ```
